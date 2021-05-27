@@ -1,0 +1,4 @@
+coloredlogs==15.0
+humanfriendly==9.1
+pyreadline==2.1
+PyYAML==5.4.1
